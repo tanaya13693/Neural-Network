@@ -1,0 +1,4 @@
+make clean
+make
+
+./backprop 16777216
